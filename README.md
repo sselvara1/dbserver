@@ -661,6 +661,10 @@ The output will look like this in the first terminal where the HTTP DB server is
 * Since the server will continue running until the program finishes running, we’ll need to stop it ourself. 
 * To do this, press CONTROL+C to send your program the interrupt signal to stop it.
 
+MySQL DB snapshot:
+
+![alt text](MySQL-DB.JPG)
+
 ## Further Enhancements
 
 * metadataList can be stored on persistent storage.
